@@ -1,0 +1,29 @@
+***Smart-CHPC1***/
+git clone https://github-vni.geo.conti.de/pf-pl1-sys-smart-c-hpc/smart-hpc.sys-test.git
+git clone https://github-vni.geo.conti.de/cds-qtt/sw.tool.robot-gen-library.git
+
+
+git checkout -b feature/DGAW-3133(with b if new, without b if not new)
+git checkout feature/DGAW-3133
+Make all the changes required, stage and commit to the newly created branch.
+Then execute 'git push -u origin <tester branch name>' to push the new local branch to remote.
+You can make changes, stage, commit and push repeatedly
+Once the test code is complete and all PASS, you need to create a pull request.
+Go to the git repo on browser.
+Go to 'Pull Requests' tab. Click on the 'New Pull Request' button.
+Select 'main' on base and select the new branch on the compare. Click 'Create pull request'.
+
+git checkout -b feature/DGAW-3133
+git add .
+git commit -m "DGAW-3133:  Updated media robot file for DAB GUI"
+git push -u origin feature/DGAW-3133
+
+
+git checkout -b feature/DGAW-4304
+git add .
+git commit -m "DGAW-4304:  FM auto test - Merge the script"
+git push -u origin feature/DGAW-4304
+
+
+https://github-vni.geo.conti.de/pf-pl1-sys-smart-c-hpc/smart-hpc.sys-test
+
