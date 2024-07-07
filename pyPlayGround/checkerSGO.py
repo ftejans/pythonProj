@@ -14,7 +14,7 @@ def check_name_in_excel(file_path, sheet_name, name_column, name_to_check):
 file_path = 'Attendance.xlsx'
 sheet_name = 'wk1'  # Change this to the sheet name you want to read
 name_column = 'Name'   # Change this to the column name containing the names
-name_to_check = 'Roldan Aquino'
+name_to_check = 'RRR AAA'
 
 if check_name_in_excel(file_path, sheet_name, name_column, name_to_check.upper()):
     print(f"{name_to_check} is in the list.")
