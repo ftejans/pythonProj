@@ -6,7 +6,7 @@ baud_rate = 9600    #match this with your device baud rate
 
 
 try:
-        if ser.is_open:
+        if serial.is_open:
                 print(f"Serial port {port} is open. Sending command...")
 
                 #Example cmmand to send
@@ -14,7 +14,7 @@ try:
 
 
                 #Send the command
-                ser.write(command)
+                serial.write(command)
                 print(f"Commmand sent: {command.decode('utf-8').rstrip()}")
 
 except Exception as e:
@@ -22,6 +22,6 @@ except Exception as e:
 
 finally:
         #Close the serial connection
-        if ser.is_open:
-                ser.close()
+        if serial.is_open:
+                serial.close()
                 print("Serial port closed.")
