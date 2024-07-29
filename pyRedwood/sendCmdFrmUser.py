@@ -55,7 +55,3 @@ while True:
     cmd=input('Please enter your command: ')
     cmd=cmd+'\r'
     cfgData.write(cmd.encode())
-
-
-
-

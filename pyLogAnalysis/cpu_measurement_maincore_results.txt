@@ -1,0 +1,1921 @@
+Package name: com.archermind.androidauto
+Duration: 240
+Interval: 1
+
+  Mem:  5122200K total,  3172692K used,  1949508K free,    32560K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu  15%user   0%nice  15%sys 370%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 11.1   3.1  14:09.16 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173448K used,  1948752K free,    32560K buffers
+ Swap:        0K total,        0K used,        0K free,  1432856K cached
+400%cpu  10%user   0%nice  17%sys 373%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 13.0   3.1  14:09.19 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173952K used,  1948248K free,    32560K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu  13%user   0%nice  13%sys 374%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:09.32 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174204K used,  1947996K free,    32560K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu  19%user   0%nice  13%sys 367%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 15.0   3.1  14:09.46 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171432K used,  1950768K free,    32576K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu  15%user   1%nice  35%sys 348%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:09.61 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171432K used,  1950768K free,    32576K buffers
+ Swap:        0K total,        0K used,        0K free,  1432856K cached
+400%cpu  15%user   0%nice  31%sys 353%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:09.75 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173448K used,  1948752K free,    32576K buffers
+ Swap:        0K total,        0K used,        0K free,  1432864K cached
+400%cpu  15%user   2%nice  27%sys 355%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:09.89 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173448K used,  1948752K free,    32576K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu   7%user   0%nice  13%sys 380%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:10.03 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173448K used,  1948752K free,    32576K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu  22%user   0%nice  37%sys 340%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 15.0   3.0  14:10.17 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173448K used,  1948752K free,    32592K buffers
+ Swap:        0K total,        0K used,        0K free,  1432852K cached
+400%cpu  13%user   1%nice  12%sys 373%idle   1%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 13.0   3.0  14:10.32 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173668K used,  1948532K free,    32592K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu  18%user   0%nice  15%sys 366%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 13.0   3.0  14:10.45 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173984K used,  1948216K free,    32592K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu  16%user   0%nice  17%sys 367%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 16.0   3.0  14:10.58 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171684K used,  1950516K free,    32592K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu  20%user   3%nice  20%sys 355%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 13.0   3.0  14:10.74 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171904K used,  1950296K free,    32592K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu  20%user   1%nice  29%sys 349%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.1  14:10.87 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170676K used,  1951524K free,    32608K buffers
+ Swap:        0K total,        0K used,        0K free,  1432852K cached
+400%cpu  19%user   1%nice  22%sys 357%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 13.0   3.1  14:11.01 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171148K used,  1951052K free,    32608K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu  13%user   0%nice  20%sys 367%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:11.14 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3166612K used,  1955588K free,    32608K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu  19%user   1%nice  23%sys 357%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 16.0   3.1  14:11.28 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3166692K used,  1955508K free,    32608K buffers
+ Swap:        0K total,        0K used,        0K free,  1432856K cached
+400%cpu  23%user   1%nice  28%sys 347%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:11.44 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3167116K used,  1955084K free,    32608K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu  18%user   0%nice  19%sys 362%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:11.58 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3167116K used,  1955084K free,    32616K buffers
+ Swap:        0K total,        0K used,        0K free,  1432852K cached
+400%cpu  13%user   0%nice  16%sys 371%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:11.72 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3167620K used,  1954580K free,    32624K buffers
+ Swap:        0K total,        0K used,        0K free,  1432856K cached
+400%cpu  16%user   0%nice  14%sys 369%idle   1%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:11.86 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3168912K used,  1953288K free,    32624K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu  29%user   0%nice  39%sys 331%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:12.00 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169164K used,  1953036K free,    32624K buffers
+ Swap:        0K total,        0K used,        0K free,  1432864K cached
+400%cpu  12%user   0%nice  18%sys 369%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:12.14 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169164K used,  1953036K free,    32624K buffers
+ Swap:        0K total,        0K used,        0K free,  1432864K cached
+400%cpu  20%user   1%nice  12%sys 367%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 13.0   3.0  14:12.28 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169668K used,  1952532K free,    32624K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu  15%user   0%nice  14%sys 370%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.0  14:12.41 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170140K used,  1952060K free,    32640K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu  18%user   0%nice  22%sys 358%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.1  14:12.55 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170676K used,  1951524K free,    32640K buffers
+ Swap:        0K total,        0K used,        0K free,  1432864K cached
+400%cpu   6%user   0%nice  23%sys 370%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 13.0   3.1  14:12.69 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170928K used,  1951272K free,    32640K buffers
+ Swap:        0K total,        0K used,        0K free,  1432868K cached
+400%cpu  26%user   1%nice  17%sys 356%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:12.82 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3167052K used,  1955148K free,    32640K buffers
+ Swap:        0K total,        0K used,        0K free,  1432864K cached
+400%cpu  17%user   1%nice  15%sys 366%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 15.0   3.1  14:12.96 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3167180K used,  1955020K free,    32640K buffers
+ Swap:        0K total,        0K used,        0K free,  1432860K cached
+400%cpu  18%user   0%nice  31%sys 351%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 15.0   3.0  14:13.11 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3167432K used,  1954768K free,    32656K buffers
+ Swap:        0K total,        0K used,        0K free,  1432864K cached
+400%cpu  17%user   0%nice  32%sys 350%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 12.0   3.0  14:13.26 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3167840K used,  1954360K free,    32656K buffers
+ Swap:        0K total,        0K used,        0K free,  1432864K cached
+400%cpu  23%user   1%nice  19%sys 357%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 15.0   3.0  14:13.38 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3168124K used,  1954076K free,    32656K buffers
+ Swap:        0K total,        0K used,        0K free,  1432864K cached
+400%cpu  13%user   0%nice  19%sys 368%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 15.0   3.0  14:13.53 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3168376K used,  1953824K free,    32656K buffers
+ Swap:        0K total,        0K used,        0K free,  1432864K cached
+400%cpu  17%user   0%nice  17%sys 364%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:13.68 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3168628K used,  1953572K free,    32656K buffers
+ Swap:        0K total,        0K used,        0K free,  1432864K cached
+400%cpu  16%user   0%nice  24%sys 359%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 13.0   3.0  14:13.82 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169920K used,  1952280K free,    32728K buffers
+ Swap:        0K total,        0K used,        0K free,  1432872K cached
+400%cpu  15%user  13%nice  18%sys 351%idle   3%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:13.95 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171180K used,  1951020K free,    32728K buffers
+ Swap:        0K total,        0K used,        0K free,  1432872K cached
+400%cpu  18%user   0%nice  31%sys 351%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.0  14:14.09 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171212K used,  1950988K free,    32728K buffers
+ Swap:        0K total,        0K used,        0K free,  1432872K cached
+400%cpu  11%user   0%nice  31%sys 357%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 15.0   3.0  14:14.23 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171684K used,  1950516K free,    32728K buffers
+ Swap:        0K total,        0K used,        0K free,  1432872K cached
+400%cpu  26%user   1%nice  16%sys 356%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 12.0   3.1  14:14.38 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171936K used,  1950264K free,    32728K buffers
+ Swap:        0K total,        0K used,        0K free,  1432872K cached
+400%cpu  15%user   0%nice  13%sys 371%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:14.50 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172188K used,  1950012K free,    32736K buffers
+ Swap:        0K total,        0K used,        0K free,  1432872K cached
+400%cpu  12%user   0%nice  16%sys 371%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:14.64 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3168156K used,  1954044K free,    32736K buffers
+ Swap:        0K total,        0K used,        0K free,  1432872K cached
+400%cpu  11%user   2%nice  16%sys 370%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 157M  91M S 15.0   3.1  14:14.78 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3168448K used,  1953752K free,    32736K buffers
+ Swap:        0K total,        0K used,        0K free,  1432872K cached
+400%cpu  29%user   0%nice  26%sys 345%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 13.0   3.0  14:14.93 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3168660K used,  1953540K free,    32736K buffers
+ Swap:        0K total,        0K used,        0K free,  1432872K cached
+400%cpu  41%user   0%nice  46%sys 313%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 13.0   3.0  14:15.06 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169196K used,  1953004K free,    32736K buffers
+ Swap:        0K total,        0K used,        0K free,  1432872K cached
+400%cpu  31%user   0%nice  25%sys 342%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 15.0   3.0  14:15.19 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171180K used,  1951020K free,    32752K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  28%user   0%nice  43%sys 327%idle   2%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 15.0   3.0  14:15.34 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171180K used,  1951020K free,    32752K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  23%user   1%nice  19%sys 356%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 13.0   3.0  14:15.49 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171684K used,  1950516K free,    32752K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  13%user   0%nice  17%sys 370%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:15.62 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171904K used,  1950296K free,    32752K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  12%user   0%nice  13%sys 374%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:15.76 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172440K used,  1949760K free,    32752K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  11%user   0%nice  17%sys 371%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.0  14:15.90 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172692K used,  1949508K free,    32768K buffers
+ Swap:        0K total,        0K used,        0K free,  1434308K cached
+400%cpu  16%user   0%nice  24%sys 359%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 13.0   3.1  14:16.04 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174772K used,  1947428K free,    32768K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  22%user   0%nice  35%sys 342%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 15.0   3.1  14:16.17 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174724K used,  1947476K free,    32768K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  20%user   0%nice  23%sys 357%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 13.0   3.1  14:16.32 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170408K used,  1951792K free,    32768K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  20%user   2%nice  13%sys 364%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 157M  91M S 16.0   3.1  14:16.45 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170692K used,  1951508K free,    32768K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  18%user   0%nice  17%sys 365%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:16.61 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170976K used,  1951224K free,    32784K buffers
+ Swap:        0K total,        0K used,        0K free,  1434308K cached
+400%cpu  12%user   1%nice  24%sys 363%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:16.75 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170944K used,  1951256K free,    32784K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  12%user   0%nice  29%sys 358%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:16.89 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171196K used,  1951004K free,    32784K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  16%user   0%nice  19%sys 365%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:17.03 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171700K used,  1950500K free,    32784K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  20%user   0%nice  16%sys 363%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 13.0   3.0  14:17.17 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171952K used,  1950248K free,    32784K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  18%user   0%nice  27%sys 354%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:17.30 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172204K used,  1949996K free,    32800K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  24%user   0%nice  18%sys 356%idle   1%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:17.44 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172708K used,  1949492K free,    32800K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  15%user   0%nice  15%sys 370%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 13.0   3.0  14:17.58 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172708K used,  1949492K free,    32800K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  17%user   0%nice  14%sys 369%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.0  14:17.71 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173716K used,  1948484K free,    32800K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  19%user   0%nice  18%sys 363%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.0  14:17.85 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174220K used,  1947980K free,    32800K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  12%user   0%nice  38%sys 349%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:17.99 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174724K used,  1947476K free,    32816K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  23%user   0%nice  20%sys 356%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 13.0   3.1  14:18.13 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172380K used,  1949820K free,    32816K buffers
+ Swap:        0K total,        0K used,        0K free,  1434316K cached
+400%cpu  16%user   1%nice  23%sys 360%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 16.0   3.1  14:18.26 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172488K used,  1949712K free,    32816K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  16%user   0%nice  19%sys 364%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:18.42 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172488K used,  1949712K free,    32816K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  17%user   0%nice  16%sys 367%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 13.0   3.0  14:18.56 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172772K used,  1949428K free,    32816K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  19%user   0%nice  17%sys 363%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:18.69 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173024K used,  1949176K free,    32832K buffers
+ Swap:        0K total,        0K used,        0K free,  1434300K cached
+400%cpu  26%user   0%nice  21%sys 351%idle   1%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 18.0   3.0  14:18.83 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173464K used,  1948736K free,    32832K buffers
+ Swap:        0K total,        0K used,        0K free,  1434316K cached
+400%cpu  17%user   0%nice  25%sys 357%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 15.0   3.0  14:19.01 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174252K used,  1947948K free,    32832K buffers
+ Swap:        0K total,        0K used,        0K free,  1434308K cached
+400%cpu  19%user   1%nice  35%sys 345%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 13.0   3.0  14:19.16 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174220K used,  1947980K free,    32832K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  13%user   0%nice  29%sys 357%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:19.29 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174756K used,  1947444K free,    32832K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  13%user   0%nice  17%sys 370%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 15.0   3.0  14:19.43 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175260K used,  1946940K free,    32848K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  15%user   0%nice  10%sys 374%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 13.0   3.1  14:19.58 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175512K used,  1946688K free,    32848K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  13%user   1%nice  20%sys 365%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 15.0   3.1  14:19.71 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175952K used,  1946248K free,    32848K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  17%user   0%nice  23%sys 359%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 15.0   3.1  14:19.86 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172236K used,  1949964K free,    32848K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  12%user   1%nice  21%sys 366%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 15.0   3.1  14:20.01 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172740K used,  1949460K free,    32848K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  18%user   0%nice  14%sys 367%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 15.0   3.0  14:20.16 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173244K used,  1948956K free,    32864K buffers
+ Swap:        0K total,        0K used,        0K free,  1434312K cached
+400%cpu  15%user   0%nice  19%sys 364%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 13.0   3.0  14:20.31 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3168204K used,  1953996K free,    32864K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu  20%user   2%nice  31%sys 347%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:20.44 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3168456K used,  1953744K free,    32864K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu  10%user   0%nice  33%sys 356%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 13.0   3.0  14:20.58 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3168488K used,  1953712K free,    32864K buffers
+ Swap:        0K total,        0K used,        0K free,  1431508K cached
+400%cpu  18%user   0%nice  16%sys 364%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 15.0   3.0  14:20.71 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3168708K used,  1953492K free,    32864K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu  10%user   1%nice  12%sys 377%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 13.0   3.0  14:20.86 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3168928K used,  1953272K free,    32880K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu   8%user   0%nice  23%sys 368%idle   1%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 13.0   3.0  14:20.99 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169212K used,  1952988K free,    32880K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu  17%user   0%nice  34%sys 348%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.0  14:21.12 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169212K used,  1952988K free,    32880K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu  12%user   0%nice  29%sys 359%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.0  14:21.26 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169496K used,  1952704K free,    32880K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu   8%user   0%nice  28%sys 363%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.1  14:21.40 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170220K used,  1951980K free,    32880K buffers
+ Swap:        0K total,        0K used,        0K free,  1431508K cached
+400%cpu  11%user   1%nice  17%sys 370%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:21.54 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170220K used,  1951980K free,    32896K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu  27%user   0%nice  32%sys 340%idle   1%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 16.0   3.1  14:21.68 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3166188K used,  1956012K free,    32896K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu  23%user   1%nice  31%sys 343%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 17.0   3.1  14:21.84 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3166692K used,  1955508K free,    32896K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu  16%user   0%nice   9%sys 375%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:22.01 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3167196K used,  1955004K free,    32896K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu  27%user   0%nice  22%sys 351%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 13.0   3.0  14:22.15 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3167196K used,  1955004K free,    32896K buffers
+ Swap:        0K total,        0K used,        0K free,  1431516K cached
+400%cpu  21%user   0%nice  16%sys 362%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:22.28 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3167952K used,  1954248K free,    32912K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu  18%user   1%nice  20%sys 359%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 15.0   3.0  14:22.42 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169448K used,  1952752K free,    32912K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu  16%user   0%nice  30%sys 354%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 13.0   3.0  14:22.57 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169732K used,  1952468K free,    32912K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu  13%user   0%nice  14%sys 373%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 13.0   3.0  14:22.70 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169732K used,  1952468K free,    32912K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu  11%user   1%nice  15%sys 373%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 15.0   3.0  14:22.83 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170204K used,  1951996K free,    32912K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu  15%user   0%nice  11%sys 372%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 13.0   3.0  14:22.98 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170740K used,  1951460K free,    32928K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu  19%user   0%nice  20%sys 361%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.1  14:23.11 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171000K used,  1951200K free,    32928K buffers
+ Swap:        0K total,        0K used,        0K free,  1431512K cached
+400%cpu  15%user   0%nice  12%sys 373%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:23.25 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171252K used,  1950948K free,    32928K buffers
+ Swap:        0K total,        0K used,        0K free,  1431516K cached
+400%cpu  26%user   0%nice  19%sys 354%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:23.39 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3167440K used,  1954760K free,    32928K buffers
+ Swap:        0K total,        0K used,        0K free,  1431516K cached
+400%cpu  18%user   2%nice  45%sys 334%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 15.0   3.1  14:23.53 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3167504K used,  1954696K free,    32928K buffers
+ Swap:        0K total,        0K used,        0K free,  1431520K cached
+400%cpu  21%user   0%nice  12%sys 367%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:23.68 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169488K used,  1952712K free,    32944K buffers
+ Swap:        0K total,        0K used,        0K free,  1432956K cached
+400%cpu  14%user   0%nice  36%sys 349%idle   1%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 13.0   3.0  14:23.82 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169740K used,  1952460K free,    32944K buffers
+ Swap:        0K total,        0K used,        0K free,  1432956K cached
+400%cpu  20%user   0%nice  15%sys 364%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 15.0   3.0  14:23.95 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169740K used,  1952460K free,    32944K buffers
+ Swap:        0K total,        0K used,        0K free,  1432956K cached
+400%cpu  18%user   0%nice  15%sys 366%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:24.10 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169992K used,  1952208K free,    32944K buffers
+ Swap:        0K total,        0K used,        0K free,  1432956K cached
+400%cpu  13%user   0%nice  12%sys 375%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:24.24 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170244K used,  1951956K free,    32944K buffers
+ Swap:        0K total,        0K used,        0K free,  1432952K cached
+400%cpu  14%user   0%nice  18%sys 367%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 13.0   3.0  14:24.38 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170496K used,  1951704K free,    32960K buffers
+ Swap:        0K total,        0K used,        0K free,  1432956K cached
+400%cpu  13%user   1%nice  56%sys 329%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 16.0   3.0  14:24.51 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172260K used,  1949940K free,    32960K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  27%user   0%nice  42%sys 329%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.0  14:24.67 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172228K used,  1949972K free,    32960K buffers
+ Swap:        0K total,        0K used,        0K free,  1432964K cached
+400%cpu  17%user   0%nice  18%sys 365%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 13.0   3.0  14:24.81 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172764K used,  1949436K free,    32960K buffers
+ Swap:        0K total,        0K used,        0K free,  1432956K cached
+400%cpu  16%user   0%nice  16%sys 368%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:24.94 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172764K used,  1949436K free,    32960K buffers
+ Swap:        0K total,        0K used,        0K free,  1432956K cached
+400%cpu  20%user   0%nice  24%sys 356%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 15.0   3.1  14:25.08 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169236K used,  1952964K free,    32976K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  20%user   1%nice  16%sys 363%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:25.23 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169488K used,  1952712K free,    32976K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  15%user   0%nice  12%sys 371%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 13.0   3.0  14:25.37 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169488K used,  1952712K free,    32976K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  14%user   0%nice  27%sys 359%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:25.50 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169992K used,  1952208K free,    32976K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  16%user   0%nice  17%sys 366%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:25.64 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170212K used,  1951988K free,    32976K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  25%user   0%nice  19%sys 356%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:25.78 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170496K used,  1951704K free,    32992K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  20%user   0%nice  16%sys 363%idle   1%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:25.92 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170780K used,  1951420K free,    32992K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  16%user   0%nice  43%sys 341%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:26.06 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171220K used,  1950980K free,    32992K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  21%user   0%nice  16%sys 361%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 13.0   3.0  14:26.20 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171724K used,  1950476K free,    32992K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  21%user   0%nice  14%sys 365%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 15.0   3.0  14:26.33 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172008K used,  1950192K free,    32992K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  14%user   0%nice  16%sys 369%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 13.0   3.0  14:26.48 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172764K used,  1949436K free,    33008K buffers
+ Swap:        0K total,        0K used,        0K free,  1432956K cached
+400%cpu  16%user   0%nice  20%sys 363%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.1  14:26.61 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174072K used,  1948128K free,    33008K buffers
+ Swap:        0K total,        0K used,        0K free,  1432956K cached
+400%cpu  18%user   2%nice  32%sys 348%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 13.0   3.1  14:26.75 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174244K used,  1947956K free,    33008K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  14%user   0%nice  38%sys 347%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 15.0   3.1  14:26.88 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170276K used,  1951924K free,    33008K buffers
+ Swap:        0K total,        0K used,        0K free,  1432956K cached
+400%cpu  13%user   1%nice  12%sys 373%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:27.03 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170496K used,  1951704K free,    33008K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  14%user   0%nice  37%sys 348%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 15.0   3.0  14:27.17 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170528K used,  1951672K free,    33016K buffers
+ Swap:        0K total,        0K used,        0K free,  1432956K cached
+400%cpu  18%user   0%nice  29%sys 353%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 13.0   3.0  14:27.32 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170968K used,  1951232K free,    33024K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  14%user   0%nice  21%sys 365%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:27.45 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171512K used,  1950688K free,    33024K buffers
+ Swap:        0K total,        0K used,        0K free,  1432964K cached
+400%cpu  10%user   2%nice  14%sys 374%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 13.0   3.0  14:27.59 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171480K used,  1950720K free,    33024K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  17%user   0%nice  11%sys 371%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:27.72 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171512K used,  1950688K free,    33024K buffers
+ Swap:        0K total,        0K used,        0K free,  1432964K cached
+400%cpu  22%user   0%nice  16%sys 361%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:27.86 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171512K used,  1950688K free,    33024K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  17%user   0%nice  17%sys 366%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:28.00 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171512K used,  1950688K free,    33040K buffers
+ Swap:        0K total,        0K used,        0K free,  1432956K cached
+400%cpu  23%user   0%nice  27%sys 347%idle   1%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 13.0   3.0  14:28.14 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172016K used,  1950184K free,    33040K buffers
+ Swap:        0K total,        0K used,        0K free,  1432956K cached
+400%cpu  25%user   0%nice  20%sys 355%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 16.0   3.0  14:28.27 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172236K used,  1949964K free,    33040K buffers
+ Swap:        0K total,        0K used,        0K free,  1432956K cached
+400%cpu  20%user   0%nice  28%sys 350%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 15.0   3.1  14:28.43 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172740K used,  1949460K free,    33040K buffers
+ Swap:        0K total,        0K used,        0K free,  1432956K cached
+400%cpu  25%user   0%nice  63%sys 309%idle   0%iow   0%irq   3%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 18.0   3.1  14:28.58 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3169664K used,  1952536K free,    33040K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  23%user   1%nice  13%sys 363%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:28.76 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170924K used,  1951276K free,    33056K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  47%user   0%nice  80%sys 272%idle   1%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:28.90 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171268K used,  1950932K free,    33056K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  13%user   0%nice  34%sys 352%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:29.04 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171520K used,  1950680K free,    33056K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  11%user   0%nice  15%sys 374%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 13.0   3.0  14:29.18 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171764K used,  1950436K free,    33056K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  14%user   0%nice  14%sys 372%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:29.31 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172016K used,  1950184K free,    33056K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  20%user   1%nice  21%sys 357%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:29.45 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172268K used,  1949932K free,    33072K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  17%user   0%nice  17%sys 365%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:29.59 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172520K used,  1949680K free,    33072K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  10%user   0%nice  17%sys 373%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 15.0   3.0  14:29.73 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172520K used,  1949680K free,    33072K buffers
+ Swap:        0K total,        0K used,        0K free,  1432964K cached
+400%cpu  19%user   0%nice  16%sys 365%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 12.0   3.0  14:29.88 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173276K used,  1948924K free,    33072K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  22%user   0%nice  23%sys 354%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 16.0   3.0  14:30.00 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173276K used,  1948924K free,    33072K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  16%user   1%nice  33%sys 349%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:30.16 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174000K used,  1948200K free,    33088K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  10%user   0%nice  60%sys 330%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 13.0   3.1  14:30.30 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174252K used,  1947948K free,    33088K buffers
+ Swap:        0K total,        0K used,        0K free,  1432964K cached
+400%cpu  11%user   0%nice  28%sys 360%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:30.43 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3170472K used,  1951728K free,    33088K buffers
+ Swap:        0K total,        0K used,        0K free,  1432964K cached
+400%cpu  13%user   2%nice  16%sys 369%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 157M  91M S 16.0   3.1  14:30.57 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171008K used,  1951192K free,    33088K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  19%user   0%nice  15%sys 365%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 13.0   3.0  14:30.73 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171512K used,  1950688K free,    33088K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  15%user   0%nice  15%sys 369%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:30.86 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173812K used,  1948388K free,    33104K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  23%user   1%nice  20%sys 355%idle   1%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:31.00 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174032K used,  1948168K free,    33104K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  16%user   0%nice  24%sys 358%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:31.14 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174252K used,  1947948K free,    33104K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  18%user   0%nice  41%sys 340%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:31.28 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174284K used,  1947916K free,    33104K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu   9%user   0%nice  16%sys 373%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 13.0   3.0  14:31.42 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174536K used,  1947664K free,    33104K buffers
+ Swap:        0K total,        0K used,        0K free,  1432956K cached
+400%cpu  16%user   0%nice  29%sys 355%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:31.55 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174756K used,  1947444K free,    33120K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  16%user   0%nice  14%sys 370%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 15.0   3.0  14:31.69 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174976K used,  1947224K free,    33120K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  26%user   0%nice  34%sys 339%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 13.0   3.1  14:31.84 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175544K used,  1946656K free,    33120K buffers
+ Swap:        0K total,        0K used,        0K free,  1432960K cached
+400%cpu  16%user   0%nice  14%sys 369%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:31.97 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175796K used,  1946404K free,    33120K buffers
+ Swap:        0K total,        0K used,        0K free,  1432964K cached
+400%cpu  22%user   0%nice  16%sys 361%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:32.11 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173024K used,  1949176K free,    33120K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  21%user   2%nice  26%sys 351%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 15.0   3.1  14:32.25 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173528K used,  1948672K free,    33136K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  20%user   0%nice  29%sys 350%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 16.0   3.0  14:32.40 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173528K used,  1948672K free,    33136K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  13%user   0%nice  17%sys 370%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:32.56 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174536K used,  1947664K free,    33136K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  15%user   0%nice  20%sys 364%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 13.0   3.0  14:32.70 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174568K used,  1947632K free,    33136K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  23%user   0%nice  16%sys 360%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:32.83 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174788K used,  1947412K free,    33136K buffers
+ Swap:        0K total,        0K used,        0K free,  1434400K cached
+400%cpu  12%user   0%nice  16%sys 372%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:32.97 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3176788K used,  1945412K free,    33152K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  24%user   1%nice  16%sys 358%idle   1%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 13.0   3.0  14:33.11 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3177104K used,  1945096K free,    33152K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  15%user   0%nice  14%sys 369%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 15.0   3.0  14:33.24 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3177324K used,  1944876K free,    33152K buffers
+ Swap:        0K total,        0K used,        0K free,  1434400K cached
+400%cpu  11%user   0%nice  14%sys 375%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.0  14:33.39 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3177544K used,  1944656K free,    33152K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  12%user   1%nice  34%sys 353%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.0  14:33.53 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3177796K used,  1944404K free,    33152K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  15%user   0%nice  14%sys 370%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 13.0   3.1  14:33.67 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3178332K used,  1943868K free,    33168K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  16%user   0%nice  45%sys 338%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 15.0   3.1  14:33.80 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3179120K used,  1943080K free,    33168K buffers
+ Swap:        0K total,        0K used,        0K free,  1434400K cached
+400%cpu  29%user   0%nice  21%sys 350%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:33.95 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175640K used,  1946560K free,    33168K buffers
+ Swap:        0K total,        0K used,        0K free,  1434400K cached
+400%cpu  39%user   1%nice  26%sys 334%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:34.09 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175844K used,  1946356K free,    33168K buffers
+ Swap:        0K total,        0K used,        0K free,  1434400K cached
+400%cpu  15%user   0%nice  10%sys 373%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:34.23 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3176284K used,  1945916K free,    33168K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  14%user   0%nice  16%sys 370%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:34.37 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3176536K used,  1945664K free,    33184K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  13%user   1%nice  18%sys 368%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:34.51 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3176820K used,  1945380K free,    33184K buffers
+ Swap:        0K total,        0K used,        0K free,  1434400K cached
+400%cpu  13%user   0%nice  23%sys 363%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:34.65 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3177040K used,  1945160K free,    33184K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  34%user   0%nice  38%sys 328%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 13.0   3.0  14:34.79 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3177324K used,  1944876K free,    33184K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  20%user   0%nice  17%sys 362%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:34.92 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3177796K used,  1944404K free,    33184K buffers
+ Swap:        0K total,        0K used,        0K free,  1434408K cached
+400%cpu  11%user   0%nice  15%sys 373%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:35.06 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3180096K used,  1942104K free,    33200K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  17%user   0%nice  19%sys 363%idle   1%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.0  14:35.20 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3180096K used,  1942104K free,    33200K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  12%user   0%nice  22%sys 365%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.1  14:35.34 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3180316K used,  1941884K free,    33200K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  14%user   1%nice  35%sys 349%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.1  14:35.48 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3180568K used,  1941632K free,    33200K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  14%user   0%nice  35%sys 351%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:35.62 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173664K used,  1948536K free,    33200K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  14%user   6%nice  30%sys 349%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 16.0   3.1  14:35.76 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173764K used,  1948436K free,    33216K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  16%user   0%nice  21%sys 362%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 13.0   3.0  14:35.92 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174048K used,  1948152K free,    33216K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  15%user   1%nice  19%sys 365%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 15.0   3.0  14:36.05 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174520K used,  1947680K free,    33216K buffers
+ Swap:        0K total,        0K used,        0K free,  1434400K cached
+400%cpu  14%user   0%nice  20%sys 365%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:36.20 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174804K used,  1947396K free,    33216K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  16%user   0%nice  16%sys 368%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 13.0   3.0  14:36.34 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174804K used,  1947396K free,    33216K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  17%user   0%nice  28%sys 353%idle   0%iow   0%irq   2%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:36.47 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175560K used,  1946640K free,    33232K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  25%user   0%nice  28%sys 346%idle   1%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:36.61 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175560K used,  1946640K free,    33232K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  13%user   0%nice  18%sys 369%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 15.0   3.0  14:36.75 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175812K used,  1946388K free,    33232K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  11%user   0%nice  33%sys 355%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 13.0   3.0  14:36.90 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3176316K used,  1945884K free,    33232K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  15%user   0%nice  21%sys 364%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 16.0   3.0  14:37.03 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3176568K used,  1945632K free,    33232K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  13%user   1%nice  15%sys 371%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.1  14:37.19 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3178584K used,  1943616K free,    33248K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  16%user   0%nice  16%sys 368%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 14.0   3.1  14:37.33 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3178836K used,  1943364K free,    33248K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  10%user   0%nice  13%sys 376%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 13.0   3.1  14:37.47 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174804K used,  1947396K free,    33248K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  19%user   2%nice  14%sys 365%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 17.0   3.1  14:37.60 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174836K used,  1947364K free,    33248K buffers
+ Swap:        0K total,        0K used,        0K free,  1434400K cached
+400%cpu  16%user   0%nice  16%sys 368%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 14.0   3.0  14:37.77 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174804K used,  1947396K free,    33248K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  15%user   0%nice  19%sys 365%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 15.0   3.0  14:37.91 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175340K used,  1946860K free,    33264K buffers
+ Swap:        0K total,        0K used,        0K free,  1434400K cached
+400%cpu  10%user   0%nice  17%sys 372%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  91M S 13.0   3.0  14:38.06 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175308K used,  1946892K free,    33264K buffers
+ Swap:        0K total,        0K used,        0K free,  1434408K cached
+400%cpu  17%user   0%nice  17%sys 366%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:38.19 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175812K used,  1946388K free,    33264K buffers
+ Swap:        0K total,        0K used,        0K free,  1434400K cached
+400%cpu  17%user   0%nice  19%sys 363%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  91M S 14.0   3.0  14:38.33 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3176064K used,  1946136K free,    33264K buffers
+ Swap:        0K total,        0K used,        0K free,  1434404K cached
+400%cpu  12%user   0%nice  32%sys 356%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 14.0   3.0  14:38.47 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172032K used,  1950168K free,    33264K buffers
+ Swap:        0K total,        0K used,        0K free,  1431764K cached
+400%cpu  16%user   1%nice  47%sys 336%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 15.0   3.0  14:38.61 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172568K used,  1949632K free,    33280K buffers
+ Swap:        0K total,        0K used,        0K free,  1431760K cached
+400%cpu  12%user   0%nice  19%sys 367%idle   1%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 154M  91M S 13.0   3.0  14:38.76 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3172788K used,  1949412K free,    33280K buffers
+ Swap:        0K total,        0K used,        0K free,  1431764K cached
+400%cpu  11%user   0%nice  36%sys 352%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 14.0   3.0  14:38.89 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173196K used,  1949004K free,    33280K buffers
+ Swap:        0K total,        0K used,        0K free,  1431764K cached
+400%cpu  21%user   0%nice  28%sys 350%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 155M  91M S 15.0   3.0  14:39.03 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173292K used,  1948908K free,    33280K buffers
+ Swap:        0K total,        0K used,        0K free,  1431764K cached
+400%cpu  18%user   0%nice  15%sys 367%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 13.0   3.1  14:39.18 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173948K used,  1948252K free,    33304K buffers
+ Swap:        0K total,        0K used,        0K free,  1431636K cached
+400%cpu  57%user  13%nice  43%sys 286%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 156M  91M S 12.0   3.1  14:39.31 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174484K used,  1947716K free,    33312K buffers
+ Swap:        0K total,        0K used,        0K free,  1431516K cached
+400%cpu  37%user   1%nice  35%sys 327%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       20   0  14G 155M  89M S  1.0   3.1  14:39.43 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173892K used,  1948308K free,    33312K buffers
+ Swap:        0K total,        0K used,        0K free,  1431516K cached
+400%cpu  43%user  12%nice  33%sys 312%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       20   0  14G 155M  89M S  1.0   3.1  14:39.44 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3171708K used,  1950492K free,    33376K buffers
+ Swap:        0K total,        0K used,        0K free,  1431720K cached
+400%cpu  80%user  13%nice  34%sys 270%idle   2%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       20   0  14G 155M  89M S  7.0   3.1  14:39.45 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3183572K used,  1938628K free,    33384K buffers
+ Swap:        0K total,        0K used,        0K free,  1431412K cached
+400%cpu  56%user   7%nice  26%sys 311%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       20   0  14G 151M  89M S 16.0   3.0  14:39.52 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173684K used,  1948516K free,    33392K buffers
+ Swap:        0K total,        0K used,        0K free,  1430248K cached
+400%cpu  13%user  18%nice  28%sys 341%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  15G 151M  89M S  7.0   3.0  14:39.68 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173580K used,  1948620K free,    33416K buffers
+ Swap:        0K total,        0K used,        0K free,  1430176K cached
+400%cpu  21%user   0%nice  29%sys 349%idle   1%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  15G 151M  89M S 12.0   3.0  14:39.75 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173580K used,  1948620K free,    33424K buffers
+ Swap:        0K total,        0K used,        0K free,  1430180K cached
+400%cpu  32%user   0%nice  50%sys 316%idle   1%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  15G 151M  89M S 13.0   3.0  14:39.87 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173516K used,  1948684K free,    33424K buffers
+ Swap:        0K total,        0K used,        0K free,  1430184K cached
+400%cpu  33%user   1%nice  35%sys 331%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  15G 152M  89M S 17.0   3.0  14:40.00 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3173832K used,  1948368K free,    33424K buffers
+ Swap:        0K total,        0K used,        0K free,  1430204K cached
+400%cpu  30%user   0%nice  17%sys 353%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  15G 152M  89M S 18.0   3.0  14:40.17 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174840K used,  1947360K free,    33424K buffers
+ Swap:        0K total,        0K used,        0K free,  1431652K cached
+400%cpu  30%user   2%nice  24%sys 344%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  15G 152M  89M S 18.0   3.0  14:40.35 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175344K used,  1946856K free,    33432K buffers
+ Swap:        0K total,        0K used,        0K free,  1431660K cached
+400%cpu  28%user   0%nice  31%sys 341%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  15G 152M  89M S 17.0   3.0  14:40.53 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175596K used,  1946604K free,    33432K buffers
+ Swap:        0K total,        0K used,        0K free,  1431664K cached
+400%cpu  22%user   0%nice  19%sys 359%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  15G 153M  89M S 17.0   3.0  14:40.70 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175596K used,  1946604K free,    33432K buffers
+ Swap:        0K total,        0K used,        0K free,  1431676K cached
+400%cpu  21%user   0%nice  24%sys 355%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  15G 153M  89M S 17.0   3.0  14:40.87 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175628K used,  1946572K free,    33432K buffers
+ Swap:        0K total,        0K used,        0K free,  1431688K cached
+400%cpu  23%user   0%nice  38%sys 339%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  15G 153M  89M S 17.0   3.0  14:41.04 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175880K used,  1946320K free,    33432K buffers
+ Swap:        0K total,        0K used,        0K free,  1431692K cached
+400%cpu  22%user   0%nice  43%sys 335%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  15G 154M  89M S 16.0   3.0  14:41.21 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3178148K used,  1944052K free,    33448K buffers
+ Swap:        0K total,        0K used,        0K free,  1431704K cached
+400%cpu  27%user   0%nice  30%sys 342%idle   1%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  15G 154M  89M S 16.0   3.0  14:41.37 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174272K used,  1947928K free,    33448K buffers
+ Swap:        0K total,        0K used,        0K free,  1431636K cached
+400%cpu  26%user   1%nice  33%sys 340%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  15G 155M  89M S 20.0   3.0  14:41.53 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174556K used,  1947644K free,    33448K buffers
+ Swap:        0K total,        0K used,        0K free,  1431644K cached
+400%cpu  35%user   0%nice  24%sys 341%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 150M  89M S 18.0   3.0  14:41.73 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174808K used,  1947392K free,    33448K buffers
+ Swap:        0K total,        0K used,        0K free,  1431652K cached
+400%cpu  28%user   0%nice  22%sys 350%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 151M  89M S 17.0   3.0  14:41.91 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3174808K used,  1947392K free,    33448K buffers
+ Swap:        0K total,        0K used,        0K free,  1431660K cached
+400%cpu  31%user   0%nice  21%sys 348%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 151M  89M S 16.0   3.0  14:42.08 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175028K used,  1947172K free,    33464K buffers
+ Swap:        0K total,        0K used,        0K free,  1431676K cached
+400%cpu  25%user   0%nice  25%sys 350%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  89M S 17.0   3.0  14:42.24 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175564K used,  1946636K free,    33464K buffers
+ Swap:        0K total,        0K used,        0K free,  1431680K cached
+400%cpu  27%user   0%nice  40%sys 333%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  89M S 17.0   3.0  14:42.41 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175532K used,  1946668K free,    33464K buffers
+ Swap:        0K total,        0K used,        0K free,  1431684K cached
+400%cpu  26%user   0%nice  32%sys 342%idle   0%iow   0%irq   0%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 152M  89M S 17.0   3.0  14:42.58 com.archermind.androidauto
+
+
+
+  Mem:  5122200K total,  3175832K used,  1946368K free,    33464K buffers
+ Swap:        0K total,        0K used,        0K free,  1431692K cached
+400%cpu  35%user   0%nice  24%sys 340%idle   0%iow   0%irq   1%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1883 system       10 -10  14G 153M  89M S 16.0   3.0  14:42.75 com.archermind.androidauto

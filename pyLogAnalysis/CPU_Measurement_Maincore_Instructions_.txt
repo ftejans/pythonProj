@@ -1,0 +1,25 @@
+Usage:
+sh cpu_measurement_maincore.sh <package_name> <duration> <interval> 
+
+Example:
+sh cpu_measurement_maincore.sh com.continental.launcher 900 1
+
+Capture CPU measurement for "com.continental.launcher" package every 1 second for 900 second
+
+Instructions:
+1) To push the script into the Android partition, use the following command in the script's directory:
+adb push ./cpu_measurement_maincore.sh /data/local/tmp
+
+2) Run the following command: 
+adb shell chmod +x /data/local/tmp/cpu_measurement_maincore.sh
+
+3) To run the script and output result file into current directory, use the following command: 
+adb shell /data/local/tmp/cpu_measurement_maincore.sh <interval> <duration> <package_name> > ./cpu_measurement_maincore_results.txt
+
+adb shell /data/local/tmp/cpu_measurement_maincore.sh com.archermind.androidauto 240 1 > ./cpu_measurement_maincore_results.txt
+
+4) Now you will have the raw CPU measurements results. Run CPU_Measurement_Maincore_Post_Process_Script.py python script and it will output 'CPU_Measurement_Results_Maincore.xlsx'.
+
+[cmd] then run command below
+D:\GIT\ProjectPy\pythonProj\pyLogAnalysis>python .\CPU_Measurement_Maincore_Post_Process_Script.py
+
